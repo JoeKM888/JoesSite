@@ -7,8 +7,8 @@ a:hover {color:#a37c93;}
 #logo {padding:0px; margin:0px;}
 
 div#sideBar {float:right; width:161px; margin:0px; padding:0px 10px 14px 10px; text-align:left;}
-#sideBar ul {margin:0px 0px 15px 0px; padding:0px 0px 0px 0px; list-style-type:none; font-size:95%; text-align:left;}
-#sideBar li {margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; list-style-type:none; font-size:95%; text-align:left;}
+#sideBar ul {margin:0px 0px 15px 0px; padding:0px 0px 0px 0px; list-style-type:none; text-align:left;}
+#sideBar li {margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; list-style-type:none; text-align:left;}
 #sideBar ul a {padding:2px; margin:1px; width:100%; color:#999999;}
 #sideBar ul a:link{color:#333366;}
 #sideBar ul a:visited{color:#333366;}
@@ -17,16 +17,11 @@ div#sideBar {float:right; width:161px; margin:0px; padding:0px 10px 14px 10px; t
 
 div#main {width:auto; margin-right:170px; padding:20px 3% 10px 5%; background-color:#edffff; text-align:justify;}
 
-div#footer{clear:both; text-align:center;}
-
-div.code {text-align:left; font-family:monospace;}
-
-h1,h2,h3,h4,h5,h6 {padding:0px; margin:0px; text-align:center;}
+h1,h2,h3,h4 {padding:0px; margin:0px; text-align:center;}
 h1 {padding-left:3%; padding-top:20px; border-bottom:dotted 1px #000000; border-top:solid 6px#D3EAF2; color:#16A3C2; background-color:#eeeeee; font:bold 340%/0.8em "Helvetica Neue Black Condensed", "Arial Black", Arial, Sans-Serif; text-align:left;}
 h2 {color:#6633ff; font:normal 240% "Helvetica Neue Black Condensed", "Arial Black", Arial,Sans-Serif;}
 h3 {color:#aa0033;}
 h4 {color:#000000; font-weight:normal; font-family: "Helvetica Neue Black Condensed", "Arial Black", Arial, Sans-Serif; text-align:left;}
-h5 {margin:10px 0px 0px 0px; color:#333333; font-size:105%; text-align:left;}
 
 #description {padding:0px; margin:0px; color:#ac4aa0; background-color:transparent; font-weight:lighter; text-align:center;}
 pre,code {color:#999999;}

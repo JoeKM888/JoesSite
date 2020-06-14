@@ -4,8 +4,6 @@ a:visited {color:#b4445c;}
 a:active {color:#ff0000;}
 a:hover {color:#a37c93;}
 
-#logo {padding:0px; margin:0px;}
-
 div#sideBar {float:right; width:161px; margin:0px; padding:0px 10px 14px 10px; text-align:left;}
 #sideBar ul {margin:0px 0px 15px 0px; padding:0px 0px 0px 0px; list-style-type:none; text-align:left;}
 #sideBar li {margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; list-style-type:none; text-align:left;}
@@ -24,18 +22,7 @@ h3 {color:#aa0033;}
 h4 {color:#000000; font-weight:normal; font-family: "Helvetica Neue Black Condensed", "Arial Black", Arial, Sans-Serif; text-align:left;}
 
 #description {padding:0px; margin:0px; color:#ac4aa0; background-color:transparent; font-weight:lighter; text-align:center;}
-pre,code {color:#999999;}
-strike {color:#999999;}
-.bug {padding:5px; border:0px;}
-.byline {padding:0px; margin:0px; color:#444444; font-size:80%;}
-.byline a{color:#935781; text-decoration:none;}
-.byline a:hover{text-decoration:underline;}
 
 #header {padding:7px 0px 30px 0px; margin:23px 0px 0px 0px; border-top:1px solid #eeeeee; background-color:#ffffff; color:white;}
 
-span.bib {text-decoration:underline;}
-
-img.button {height:31px; width:88px; border:0;}
-
-ul.inline {list-style-type: square; list-style-position: inside; padding-left:0;}
-ul.links {list-style-type: none;}
+div#centre {text-align: center;}
